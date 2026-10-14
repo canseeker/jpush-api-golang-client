@@ -9,7 +9,7 @@ import (
 func TestSendSMS(t *testing.T) {
 
 	var mobile string
-	mobile = "xxxxx"
+	mobile = "xxxx"
 	var tempid int64
 	tempid = 1
 	const code = "141238"
